@@ -1,2 +1,2 @@
 # Programa-PilaresCDMX
-Este proyecto evalúa el programa PILARES de la Ciudad de Mexico
+Este proyecto evalúa la implementación programa PILARES de la Ciudad de Mexico. Al analizar la ubicación de estos centros educativos, se puede notar que están construídos en proporción a la cantidad de población que exite en cada alcaldía. Sin embargo, este programa no toma en cuenta el desarrollo social en cada demarcación. si se logra conjuntar la cantidad de población con el índice de desarrollo social, se puede lograr que este programa tenga buenos resultados y sea modelo a nivel nacional. 
